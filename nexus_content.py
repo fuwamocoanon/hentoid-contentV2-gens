@@ -70,7 +70,7 @@ def convert_info_to_contentV2(info_file, book_folder, output_file):
             "downloadMode": 0,
             "errorRecords": [],
             "favourite": False,  # Placeholder, no favourites in info.json
-            "groups": [{"name": group} for group in info_data.get("Groups", [])],
+            "groups": [],
             "imageFiles": image_files,  # Processed image files
             "isFrozen": False,
             "lastReadDate": 0,
