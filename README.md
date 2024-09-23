@@ -5,6 +5,8 @@ Hentoid - https://github.com/avluis/Hentoid
 
 Nexus Downloader - https://github.com/LetrixZ/hentainexus-downloader-userscript
 
+Chore built script export for the above - [tampermonkey_scripts.zip](https://github.com/user-attachments/files/17100083/tampermonkey_scripts.zip)
+
 1. Place into a Root folder with all books as normal folders (extract the cbz files)
 2. Run the python scripts
 3. Profit?
